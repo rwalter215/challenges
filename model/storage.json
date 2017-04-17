@@ -1,0 +1,51 @@
+{
+  "movies":[{
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": "Thriller",
+    "actors": "Brad Pitt, Edward Norton",
+    "rating": 3.5
+    },
+    {
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": "Thriller",
+    "actors": "Brad Pitt, Edward Norton",
+    "rating": 3.5
+    },
+    {
+    "title": "Fight Club",
+    "year": "1999",
+    "genre": "Thriller",
+    "actors": "Brad Pitt, Edward Norton",
+    "rating": 3.5
+    },
+    {
+    "title": "300",
+    "year": "2009",
+    "genre": "Action",
+    "actors": "Gerard Butler, Some Other Guy",
+    "rating": 5
+    },
+    {
+    "title": "300",
+    "year": "2009",
+    "genre": "Action",
+    "actors": "Gerard Butler, Some Other Guy",
+    "rating": 5
+    },
+    {
+    "title": "300",
+    "year": "2009",
+    "genre": "Action",
+    "actors": "Gerard Butler, Some Other Guy",
+    "rating": 5
+    },
+    {
+    "title": "300",
+    "year": "2009",
+    "genre": "Action",
+    "actors": "Gerard Butler, Some Other Guy",
+    "rating": 5
+    }]
+}

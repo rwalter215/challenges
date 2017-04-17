@@ -1,0 +1,22 @@
+.title {
+  border-bottom: 2px solid blue;
+  background-color: lightgrey;
+}
+
+.title__search {
+  float: right;
+  vertical-align: middle;
+}
+
+.movie-card {
+  border: 2px solid blue;
+  background-color: lightgrey;
+  width: 15em;
+  height: 20em;
+  display: inline-block;
+  margin: 5em;
+}
+
+.app {
+  background-image: url("https://i.ytimg.com/vi/qbzFSfWwp-w/maxresdefault.jpg")
+}
